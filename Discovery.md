@@ -1,6 +1,6 @@
 ## Connecting Discovery to Chatbot using Cloud functions.
 
-[![Build Status](https://api.travis-ci.org/IBM/watson-discovery-sdu-with-assistant.svg?branch=master)](https://travis-ci.org/IBM/watson-discovery-sdu-with-assistant)
+
 
 ## What is SDU?
 
